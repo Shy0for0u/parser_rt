@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dgorold-/CLionProjects/parser/includes/rt.h
+../libft/includes/libft.h
+/Users/dgorold-/CLionProjects/parser/libft/includes/libft.h
+../libgm/include/libgm.h
+/Users/dgorold-/CLionProjects/parser/libgm/include/libgm.h
+stdio.h
+-
+
+/Users/dgorold-/CLionProjects/parser/libft/includes/get_next_line.h
+libft.h
+/Users/dgorold-/CLionProjects/parser/libft/includes/libft.h
+stdio.h
+-
+fcntl.h
+-
+
+/Users/dgorold-/CLionProjects/parser/libft/includes/libft.h
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+get_next_line.h
+/Users/dgorold-/CLionProjects/parser/libft/includes/get_next_line.h
+
+/Users/dgorold-/CLionProjects/parser/libgm/include/libgm.h
+../../libft/includes/libft.h
+/Users/dgorold-/CLionProjects/parser/libft/includes/libft.h
+math.h
+-
+
+/Users/dgorold-/CLionProjects/parser/src/main.c
+../includes/rt.h
+/Users/dgorold-/CLionProjects/parser/includes/rt.h
+
